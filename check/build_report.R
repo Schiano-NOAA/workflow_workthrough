@@ -89,8 +89,15 @@ asar::create_template(
 #3. Add external plot/image
 # the next few steps can be done manually, but are coded out to help show where
 # components of an external image will go
+# copy image to directory folder
+file.copy(
+  from = file.path(getwd(), "SPRratio.png"),
+  to = file.path(getwd(), "report", "SPRratio.png"),
+  overwrite = TRUE
+)
+
 image_line <- paste0(
-  "![My caption](plots/SPRratio.png){#fig-sprratio}"
+  "![My caption](SPRratio.png){#fig-sprratio}"
 )
 # Add to figure.qmd
 figs_qmd <- readLines(
