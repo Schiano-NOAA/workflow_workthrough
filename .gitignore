@@ -49,3 +49,8 @@ po/*~
 rsconnect/
 
 workflow_workthrough.Rproj
+
+# File associated with the report
+report/
+rda_files/
+captions_alt_text.csv
