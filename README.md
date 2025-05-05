@@ -19,7 +19,7 @@ By the end of this activity, your repository should consist of the following fil
 
 # Workthrough
 
-The following are the same directions found in the [worksheet](https://github.com/nmfs-ost/workflow_workthrough/blob/main/check/Testing%20%7Basar%7D%20and%20%7Bstockplotr%7D%20-%20key.pdf)
+The following are the same directions found in the [worksheet](https://github.com/nmfs-ost/workflow_workthrough/blob/main/Testing%20%7Basar%7D%20and%20%7Bstockplotr%7D.pdf)
 
 ## Testing {asar} and {stockplotr}
 
