@@ -133,7 +133,7 @@ asar::remove_draft(
   dir = file.path(getwd(), "report")
 )
 
-#2. Add accessibility to the document.
+#2. Add accessibility fxns to the document.
 # This might not work depending on your machine downloads
 # add_alttext will work but not render without add_tagging
 path <- getwd()
