@@ -95,6 +95,8 @@ into your environment.
 
 3. Create all of the tables and figures from `stockplotr`
 
+    *Hint: you might need to add specific arguments to render some tables and figures (ref_line, ref_line_sb, and indices_unit_label)*
+
 4. Add the tables and figures into your outline.
 
 5. Update your preamble so it includes the converted output file. 
@@ -131,5 +133,19 @@ figure.
 
 1. Remove draft watermark.
 
-2. Add alternative text and PDF taggingaccessibility.
+2. Add alternative text and PDF tagging.
 
+### Reflection
+
+Congratulations, you’ve learned most of the workflow needed to render a stock
+assessment report with asar! If you have 5 more minutes, we’d greatly 
+appreciate hearing your answers to these questions so that we can improve 
+`asar` for everyone. (Feel free to leave you comments on their respective 
+[discussion pages](https://github.com/nmfs-ost/workflow_workthrough/discussions))
+
+1. [How would this template work based on your current guidelines?](https://github.com/nmfs-ost/workflow_workthrough/discussions/1)
+2. [How easy was the template to make?](https://github.com/nmfs-ost/workflow_workthrough/discussions/2)
+3. [How similar was this to your current workflow?](https://github.com/nmfs-ost/workflow_workthrough/discussions/3)
+4. [Did you encounter any issues or errors?](https://github.com/nmfs-ost/workflow_workthrough/discussions/4)
+5. [Could you see the future of its use into your workflow?](https://github.com/nmfs-ost/workflow_workthrough/discussions/5)
+6. [What improvements would you make to the process as a whole or individual parts of the workflow?](https://github.com/nmfs-ost/workflow_workthrough/discussions/6)
