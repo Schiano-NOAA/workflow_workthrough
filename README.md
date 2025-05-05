@@ -8,7 +8,7 @@ Use the "Use this template" button in the top right corner of the repository.
 This will create a clone of this repo into your account so you can follow the 
 activity found below or in the [Workflow Document](https://github.com/nmfs-ost/workflow_workthrough/blob/main/check/Testing%20%7Basar%7D%20and%20%7Bstockplotr%7D%20-%20key.pdf).
 
-During this activity you will create a report template for a stock as well as associated tables and figures found in [stockplot](https://github.com/nmfs-ost/stockplotr).
+During this activity you will create a report template for a stock as well as associated tables and figures found in [stockplotr](https://github.com/nmfs-ost/stockplotr).
 By the end of this activity, your repository should consist of the following files:
 
 - report/
