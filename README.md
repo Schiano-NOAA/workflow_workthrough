@@ -51,10 +51,18 @@ workflow.
 
 4. Install the most recent version of {asar} and {stockplotr}
 
+```install.packages(
+  "asar", 
+  repos = c("https://nmfs-ost.r-universe.dev",
+  "https://cloud.r-project.org"))
+install.packages(
+  "stockplotr", 
+  repos = c("https://nmfs-ost.r-universe.dev",
+  "https://cloud.r-project.org"))
 ```
-remotes::install_github("nmfs-ost/asar")
-remotes::install_github("nmfs-ost/stockplotr")
-```
+
+    *Alternative methods for installation, can be found on the package’s respective GitHub Pages, asar and stockplotr.*
+
 
 5. If you haven’t already, install tinytex expanded version:
 
