@@ -134,12 +134,15 @@ asar::remove_draft(
 )
 
 #2. Add accessibility to the document.
+# This might not work depending on your machine downloads
+# add_alttext will work but not render without add_tagging
 path <- getwd()
 withr::with_dir(
   file.path(getwd(), "report"),
-  asar::add_alttext(
+  asar::add_accessibility(
     rda_dir = path,
     alttext_csv_dir = path,
     rename = "2025_yelloweye_SAR_501compliance"
   )
 )
+
