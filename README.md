@@ -51,7 +51,8 @@ workflow.
 
 4. Install the most recent version of {asar} and {stockplotr}
 
-```install.packages(
+```
+install.packages(
   "asar", 
   repos = c("https://nmfs-ost.r-universe.dev",
   "https://cloud.r-project.org"))
