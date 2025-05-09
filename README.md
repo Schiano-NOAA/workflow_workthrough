@@ -69,7 +69,7 @@ install.packages(
 
 ```
 install.packages(“tinytex”)
-tinytex::install.tinytex(bundle = “TinyTeX-1”)
+tinytex::install_tinytex(bundle = “TinyTeX-1”)
 ```
 
 If you want to go above and beyond, download the TinyTeX bundle 2 instead of
